@@ -20,3 +20,27 @@ Sinta-se à vontade para contribuir, reportar problemas ou melhorar o código!
 ## Licença
 
 Este projeto está sob a licença [MIT License](LICENSE).
+
+
+# Quiz App
+
+This is a simple quiz app project developed with HTML, CSS and JavaScript.
+The app displays a series of questions with answer options and provides feedback to the user on the final score.
+
+## Resources
+
+- Well organized HTML structure.
+- Attractive and responsive CSS styles.
+- Dynamic and interactive quiz logic implemented in JavaScript.
+- Use of fonts from Google Fonts for a more pleasant user experience.
+
+## How to use
+
+1. Clone the repository.
+2. Open the `index.html` file in your browser.
+
+Feel free to contribute, report issues or improve the code!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
